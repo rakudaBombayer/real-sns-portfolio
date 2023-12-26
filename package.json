@@ -1,0 +1,17 @@
+{
+  "name": "real-sns-portfoli",
+  "version": "1.0.0",
+  "description": "real-sns",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "fumiya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
